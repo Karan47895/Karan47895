@@ -1,3 +1,4 @@
+![logo](https://github.com/Karan47895/Karan-Patel/blob/main/Git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
 <h3 align="center">I am currently pursuing a degree in Electronics and Communication Engineering at the Institute of Technology Nirma University. As an aspiring embedded systems enthusiast, I have a deep passion for mastering embedded programming. Additionally, I am a coding enthusiast and a quick learner, constantly seeking to expand my knowledge and skills in this field.</h3>
 
