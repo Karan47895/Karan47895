@@ -1,6 +1,6 @@
 ![logo](https://github.com/Karan47895/Karan-Patel/blob/main/Git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
-<h3 align="center"👋 Hi, I’m Karan Patel, a BTech student passionate about embedded systems and electronics. I’ve worked on projects like creating custom STM32 drivers, building FreeRTOS applications, and developing smart sensor systems with RFID security. Right now, I’m learning Embedded Linux on BeagleBone Black and working on custom bootloader development. I enjoy solving problems, learning new things, and building useful projects. Let’s connect and create something great! 🚀.</h3>
+<h3 align="center">👋 Hi, I’m Karan Patel, a BTech student passionate about embedded systems and electronics. I’ve worked on projects like creating custom STM32 drivers, building FreeRTOS applications, and developing smart sensor systems with RFID security. Right now, I’m learning Embedded Linux on BeagleBone Black and working on custom bootloader development. I enjoy solving problems, learning new things, and building useful projects. Let’s connect and create something great! 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
