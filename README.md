@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan47895&label=Profile%20views&color=0e75b6&style=flat" alt="karan47895" /> </p>
 
-- 🌱 I’m currently learning **STM 32,Embedded Programming,etc**
+- 🌱 I’m currently learning **STM 32,Embedded Programming,Embedded linux using Beaglebone black,Custom Bootloader development on STM32F407 discovery board**
    
 - 📫 How to reach me **kp478322@gmail.com**
 
